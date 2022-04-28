@@ -1,0 +1,101 @@
+/*FOOTER*/
+
+footer {
+    color: white;
+    background: #060608 0% 0% no-repeat padding-box;
+    opacity: 1;
+    width: 100%;
+    height: auto;
+    margin-top: 4rem;
+    font-size: 20px;
+}
+
+footer .container {
+    max-width: 100%;
+}
+
+.logoFooter {
+    margin-top: 15%;
+    width: auto;
+    max-height: 18vh;
+}
+
+.socialFooter {
+    display: block;
+    margin-top: 2rem;
+}
+
+footer p {
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: 2rem;
+    text-align: left;
+}
+
+.socialLogo img{
+    opacity: 88%;
+    margin: 1rem 1rem 1rem 1rem;
+    width: auto;
+    max-height: 4vh;
+}
+
+.inputFooter {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.emailFooter {
+    text-align: center;
+    color: white;
+    border: 1px solid #029CE6;
+    position: relative;
+    background-color: transparent;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.emailButton {
+    font-size: 20px;
+    font-weight: lighter;
+    color: white;
+    background: #029CE6 0% 0% no-repeat padding-box;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 1px solid #029CE6;
+}
+
+@media (max-width: 1182px) {
+    .logoFooter {
+        margin-top: 5%;
+        width: 103px;
+        height: 103px;
+    }
+
+    footer p {
+        font-size: 15px;
+        font-weight: normal;
+        margin-top: 1rem;
+        text-align: left;
+    }
+
+    .emailButton {
+        font-size: 20px;
+        font-weight: lighter;
+        color: white;
+        background: #029CE6 0% 0% no-repeat padding-box;
+        border-top-right-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border: 1px solid #029CE6;
+    }
+
+    .emailFooter {
+        text-align: center;
+        color: white;
+        border: 1px solid #029CE6;
+        position: relative;
+        background-color: transparent;
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+    }
+
+}

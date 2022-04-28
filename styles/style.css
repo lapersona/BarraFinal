@@ -1,0 +1,14 @@
+@import "./footer.css";
+@import "./navBar.css";
+@import "./index.css";
+@import "./noticias.css";
+@import "./sobrelabarra.css";
+@import "./rinconbarra.css";
+@import "./galeria.css";
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #F0F0F0 0% 0% no-repeat padding-box;
+    font-family: Montserrat;
+}

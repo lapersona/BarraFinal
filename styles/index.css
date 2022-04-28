@@ -1,0 +1,286 @@
+.containerCarousel {
+    position: relative;
+    padding-top: 4rem;
+    width: 90%;
+}
+
+.carouselImgContainer {
+    border-radius: 20px;
+}
+
+.carouselText{
+    height: 30%;
+    left: 0px;
+    bottom: 0px;
+    text-align: left;
+    width: 100%;
+    background: #6E6E6EBD 0% 0% no-repeat padding-box;
+    box-shadow: 4px 4px 8px #00000029;
+    border-radius: 0px 0px 15px 15px;
+    opacity: 1;
+}
+.carouselText h5 {
+    margin: 1.2rem;
+    font: normal normal medium Montserrat;
+    font-weight: bold;
+    font-size: 1.8vw;
+}
+.carouselText p {
+    margin: 1.2rem;
+    font: normal normal medium Montserrat;
+    font-size: 1.04vw;
+}
+
+.containerNews {
+    height: 100%;
+    border-radius: 15px;
+    background: #FFFEFE 0% 0% no-repeat padding-box;
+    box-shadow: 4px 4px 8px #00000029;
+}
+
+.cardNews {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    background: #F0F0F0 0% 0% no-repeat padding-box;
+    width: 100%;
+    height: 90%;
+    border: none;
+}
+
+.cardNews img {
+    border-radius: 10px;
+    width: 15.8vw;
+    height: 7.5vw;
+}
+
+.card-body {
+    padding: 5px 5px 5px 5px;
+}
+
+.card-body p {
+    text-align: left;
+    font: normal normal medium Montserrat;
+    margin-left: 2rem;
+}
+
+.social {
+    padding-top: 1rem;
+}
+
+.containerFixture {
+    max-width: 1920px;
+    width: 90%;
+    border-radius: 15px;
+    background: #FFFEFE 0% 0% no-repeat padding-box;
+    box-shadow: 4px 4px 8px #00000029;
+    margin: auto;
+    margin-top: 3rem;
+    padding: 1rem;
+}
+
+.logoFixture {
+   width: 55px;
+   height: auto;
+}
+
+.fixture {
+    margin: auto;
+}
+
+.media {
+    max-width: 1920px !important;
+    width: 90%;
+    margin-top: 2rem; 
+}
+
+hr {
+    box-shadow: 0px 2px 6px #00000029;
+    border: 2px solid #C1C0C0;
+    opacity: 1;
+}
+
+.playerOfWeek, .social, .interview {
+    border-radius: 15px;
+    background: #FFFEFE 0% 0% no-repeat padding-box;
+    box-shadow: 4px 4px 8px #00000029;
+    opacity: 1;
+    max-height: auto;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.playerOfWeek img {
+    margin-top: 85px;
+    margin-bottom: 39px;
+    width: 167px;
+    height: 167px;
+    border-radius: 50%;
+}
+
+.playerOfWeek h5 {
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+.playerOfWeek p {
+    margin-top: 26px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.interview {
+    padding: 0px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.interview img {
+    margin-top: 84px;
+    width: 100%;
+    height: 35%;
+}
+
+.interview h5 {
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+    margin: 1.2rem;
+}
+
+.interview h6 a{
+    display: inline-block;
+    padding-left: 80%;
+    color: #029CE6;
+    margin-right: 1.2rem;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.tablePosition {
+    text-align: center;
+    font-size: 20px;
+    padding-left: 0px;
+    padding-top: 5px;
+    width: 90%;
+    height: auto;
+    background: #FEFEFE 0% 0% no-repeat padding-box;
+    box-shadow: 4px 4px 15px #00000029;
+    border-radius: 15px;
+    opacity: 1;
+    margin-top: 3rem;
+}
+
+.tableContainer {
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.tableLogo {
+    width: 20px;
+    height: 20px;
+}
+
+.logoNav {
+    margin: 0px;
+    width: 350px;
+    height: 150px;
+}
+
+.cardText {
+    text-decoration: none;
+    color: #000000;
+}
+
+@media (max-width: 1180px) {
+
+    .btn-menu {
+        border-color: #029CE6;
+        color: #029CE6;
+    }
+    
+    .collapse {
+        margin-left: 1rem;
+        padding: 1rem 1rem 1rem 1rem;
+        background-color: #000000;
+        border-radius: 5px;
+    }
+    .logoNav {
+        margin: 0px;
+        width: 170px;
+        height: 70px;
+    }
+    .containerCarousel {
+        width: 100%;
+    }
+    .carouselText {
+        height: auto;
+        bottom: 0px;
+        left: 0px;
+        width: 100%;
+        border-radius: 0px 0px 15px 15px;
+        box-shadow: 4px 4px 8px #00000029;
+        opacity: 1;
+    }
+    .carouselText h5 {
+        margin: 1.2rem;
+        font: normal normal medium Montserrat;
+        font-weight: bold;
+        font-size: 1.8vw;
+    }
+    .carouselText p {
+        margin: 1.2rem;
+        font: normal normal medium Montserrat;
+        font-size: 1.04vw;
+    }
+    .containerNews {
+        height: auto;
+        margin-bottom: 4rem;
+    }
+    .cardNews {
+        top: 4rem;
+        background: #F0F0F0 0% 0% no-repeat padding-box;
+        width: 100%;
+        height: 90%;
+        border: none;
+    }
+    .cardNews img {
+        border-radius: 5px;
+        width: 40vw;
+        height: 22vw;
+    }
+    .card-body p {
+        text-align: center;
+        font: normal normal medium Montserrat;
+    }
+    .social {
+        padding-top: 1rem;
+    }
+
+    .interview {
+        padding-bottom: 2rem;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .containerFixture {
+        border-radius: 15px;
+        background: #FFFEFE 0% 0% no-repeat padding-box;
+        box-shadow: 4px 4px 8px #00000029;
+        max-width: 1920px !important;
+        width: 90%;
+        margin-top: 2rem;  
+    }
+    .logoFixture {
+        margin: 3% 3% 3% 3%;
+    }
+    .fixture {
+        margin: 10px 10px 10px 10px;
+        width: 15% !important;
+    }
+    .media {
+        max-width: 1920px !important;
+}
+}

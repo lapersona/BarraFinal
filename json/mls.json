@@ -1,0 +1,39 @@
+[{
+    "id" : 4,
+    "img" : "./assets/IMG_6AE5CAADE250-1.jpeg",
+    "titulo" : "Noticia MLS 4",
+    "descripcion": "La victoria por 3 a 1 contra los actuales campeones del Supporter´s Shield, el New England Revolution, pasara a los libros de Historia.",
+    "autor": "Claudio Bonus",
+    "date": "07 de Marzo de 2022",
+    "noticia":"<p>Este es un texto ubicado en el parrafo numero 1.</p><p> Parrafo 2 Saepe modi fa cere voluptatum suscipit enim dignissimos sit veniam obcaecati! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero fuga ea, assumenda nobis magni vel repudiandae quis? Pariatur delectus molestiae totam cum, fugiat quaerat provident id aliquam quia autem aut. Lorem ipsum dolor sit amet consectetur adipisicing elit. Et iure odit tempore obcaecati mollitia cum temporibus asperiores suscipit id, atque magni quam vero eaque quas eos nesciunt nobis sit commodi? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam omnis suscipit tenetur nulla, repudiandae nesciunt sapiente explicabo similique reiciendis dolores veniam.</p><p> Delectus repellat deleniti debitis autem sit, repellendus soluta cupiditate. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, ipsam nisi a aliquam beatae quod fugit nobis nulla, autem voluptatem impedit quia eveniet eaque sunt aperiam possimus unde quidem inventore?</p>"
+},
+
+{
+    "id" : 3,
+    "img" : "./assets/Noticia.png",
+    "titulo" : "Noticia MLS 3",
+    "descripcion": "La victoria por 3 a 1 contra los actuales campeones del Supporter´s Shield, el New England Revolution, pasara a los libros de Historia.",
+    "autor": "Claudio Bonus",
+    "date": "07 de Marzo de 2022",
+    "noticia":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas officiis, quo dicta aut iste distinctio rerum natus enim corrupti accusamus minus ut nostrum possimus odit? Vel quod perspiciatis non Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam quae numquam autem culpa adipisci est officia cum natus, quam tempora. Saepe modi fa cere voluptatum suscipit enim dignissimos sit veniam obcaecati! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero fuga ea, assumenda nobis magni vel repudiandae quis? Pariatur delectus molestiae totam cum, fugiat quaerat provident id aliquam quia autem aut. Lorem ipsum dolor sit amet consectetur adipisicing elit. Et iure odit tempore obcaecati mollitia cum temporibus asperiores suscipit id, atque magni quam vero eaque quas eos nesciunt nobis sit commodi? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam omnis suscipit tenetur nulla, repudiandae nesciunt sapiente explicabo similique reiciendis dolores veniam. Delectus repellat deleniti debitis autem sit, repellendus soluta cupiditate. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, ipsam nisi a aliquam beatae quod fugit nobis nulla, autem voluptatem impedit quia eveniet eaque sunt aperiam possimus unde quidem inventore?"
+},
+{
+    "id" : 2,
+    "img" : "./assets/IMG_6AE5CAADE250-1.jpeg",
+    "titulo" : "Noticia MLS 2",
+    "descripcion": "La victoria por 3 a 1 contra los actuales campeones del Supporter´s Shield, el New England Revolution, pasara a los libros de Historia.",
+    "autor": "Claudio Bonus",
+    "date": "07 de Marzo de 2022",
+    "noticia":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas officiis, quo dicta aut iste distinctio rerum natus enim corrupti accusamus minus ut nostrum possimus odit? Vel quod perspiciatis non Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam quae numquam autem culpa adipisci est officia cum natus, quam tempora. Saepe modi fa cere voluptatum suscipit enim dignissimos sit veniam obcaecati! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero fuga ea, assumenda nobis magni vel repudiandae quis? Pariatur delectus molestiae totam cum, fugiat quaerat provident id aliquam quia autem aut. Lorem ipsum dolor sit amet consectetur adipisicing elit. Et iure odit tempore obcaecati mollitia cum temporibus asperiores suscipit id, atque magni quam vero eaque quas eos nesciunt nobis sit commodi? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam omnis suscipit tenetur nulla, repudiandae nesciunt sapiente explicabo similique reiciendis dolores veniam. Delectus repellat deleniti debitis autem sit, repellendus soluta cupiditate. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, ipsam nisi a aliquam beatae quod fugit nobis nulla, autem voluptatem impedit quia eveniet eaque sunt aperiam possimus unde quidem inventore?"
+},
+{
+    "id" : 1,
+    "img" : "./assets/IMG_6AE5CAADE250-1.jpeg",
+    "titulo" : "Noticia MLS 1",
+    "descripcion": "La victoria por 3 a 1 contra los actuales campeones del Supporter´s Shield, el New England Revolution, pasara a los libros de Historia.",
+    "autor": "Claudio Bonus",
+    "date": "07 de Marzo de 2022",
+    "noticia":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas officiis, quo dicta aut iste distinctio rerum natus enim corrupti accusamus minus ut nostrum possimus odit? Vel quod perspiciatis non Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam quae numquam autem culpa adipisci est officia cum natus, quam tempora. Saepe modi fa cere voluptatum suscipit enim dignissimos sit veniam obcaecati! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero fuga ea, assumenda nobis magni vel repudiandae quis? Pariatur delectus molestiae totam cum, fugiat quaerat provident id aliquam quia autem aut. Lorem ipsum dolor sit amet consectetur adipisicing elit. Et iure odit tempore obcaecati mollitia cum temporibus asperiores suscipit id, atque magni quam vero eaque quas eos nesciunt nobis sit commodi? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam omnis suscipit tenetur nulla, repudiandae nesciunt sapiente explicabo similique reiciendis dolores veniam. Delectus repellat deleniti debitis autem sit, repellendus soluta cupiditate. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, ipsam nisi a aliquam beatae quod fugit nobis nulla, autem voluptatem impedit quia eveniet eaque sunt aperiam possimus unde quidem inventore?"
+}
+
+]

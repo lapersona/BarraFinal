@@ -1,0 +1,43 @@
+[{
+    "date": "APR 28",
+    "hour": "04:00 PM",
+    "local": "assets/charlotte_FC.png",
+    "visit": "assets/FC_Cincinnati.png",
+    "result":"2:1"
+},
+{
+    "date": "MAY 5",
+    "hour": "01:00 PM",
+    "local": "assets/New_York_RB.png",
+    "visit": "assets/charlotte_FC.png",
+    "result":"3:5"
+},
+{
+    "date": "MAY 17",
+    "hour": "07:00 PM",
+    "local": "assets/charlotte_FC.png",
+    "visit": "assets/Recurso 2.png",
+    "result":"6:0"
+},
+{
+    "date": "MAY 25",
+    "hour": "4:00 PM",
+    "local": "assets/Orlando_City_SC.png",
+    "visit": "assets/charlotte_FC.png",
+    "result":"-:-"
+},
+{
+    "date": "JUN 18",
+    "hour": "10:00 AM",
+    "local": "assets/charlotte_FC.png",
+    "visit": "assets/Philadelphia_Union.png",
+    "result":"-:-"
+},
+{
+    "date": "JUN 06",
+    "hour": "8:00 PM",
+    "local": "assets/Toronto_FC.png",
+    "visit": "assets/charlotte_FC.png",
+    "result":"-:-"
+}
+]

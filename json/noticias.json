@@ -1,0 +1,71 @@
+[{
+    "id" : 7,
+    "tipo": "P",
+    "img" : "./assets/IMG_6AE5CAADE250-1.jpeg",
+    "titulo" : "Por la Corona: Primera victoria de la historia del club",
+    "descripcion": "La victoria por 3 a 1 contra los actuales campeones del Supporter´s Shield, el New England Revolution, pasara a los libros de Historia.",
+    "autor": "Claudio Bonus",
+    "date": "07 de Marzo de 2022",
+    "noticia":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas officiis, quo dicta aut iste distinctio rerum natus enim corrupti accusamus minus ut nostrum possimus odit? Vel quod perspiciatis non Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam quae numquam autem culpa adipisci est officia cum natus, quam tempora. Saepe modi fa cere voluptatum suscipit enim dignissimos sit veniam obcaecati! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero fuga ea, assumenda nobis magni vel repudiandae quis? Pariatur delectus molestiae totam cum, fugiat quaerat provident id aliquam quia autem aut. Lorem ipsum dolor sit amet consectetur adipisicing elit. Et iure odit tempore obcaecati mollitia cum temporibus asperiores suscipit id, atque magni quam vero eaque quas eos nesciunt nobis sit commodi? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam omnis suscipit tenetur nulla, repudiandae nesciunt sapiente explicabo similique reiciendis dolores veniam. Delectus repellat deleniti debitis autem sit, repellendus soluta cupiditate. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, ipsam nisi a aliquam beatae quod fugit nobis nulla, autem voluptatem impedit quia eveniet eaque sunt aperiam possimus unde quidem inventore?"
+},
+{
+    "id" : 6,
+    "tipo": "E",
+    "img" : "./assets/DSC_0099.jpg",
+    "titulo" : "La Barra esta loca!",
+    "descripcion": "Toda la tribuna festejo el triunfo obtenido el domingo",
+    "autor": "Claudio Bonus",
+    "date": "03 de Abril de 2022",
+    "noticia":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas officiis, quo dicta aut iste distinctio rerum natus enim corrupti accusamus minus ut nostrum possimus odit? Vel quod perspiciatis non Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam quae numquam autem culpa adipisci est officia cum natus, quam tempora. Saepe modi fa cere voluptatum suscipit enim dignissimos sit veniam obcaecati! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero fuga ea, assumenda nobis magni vel repudiandae quis? Pariatur delectus molestiae totam cum, fugiat quaerat provident id aliquam quia autem aut. Lorem ipsum dolor sit amet consectetur adipisicing elit. Et iure odit tempore obcaecati mollitia cum temporibus asperiores suscipit id, atque magni quam vero eaque quas eos nesciunt nobis sit commodi? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam omnis suscipit tenetur nulla, repudiandae nesciunt sapiente explicabo similique reiciendis dolores veniam. Delectus repellat deleniti debitis autem sit, repellendus soluta cupiditate. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, ipsam nisi a aliquam beatae quod fugit nobis nulla, autem voluptatem impedit quia eveniet eaque sunt aperiam possimus unde quidem inventore?"
+},
+{"id" : 5,
+    "tipo": "P",
+    "img" : "./assets/DSC_0108.jpg",
+    "titulo" : "Pegale que es gol!",
+    "descripcion": "El jugador nos cuenta que penso antes de patear al arco y marcar el 1 a 0.",
+    "autor": "Claudio Bonus",
+    "date": "17 de Abril de 2022",
+    "noticia":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas officiis, quo dicta aut iste distinctio rerum natus enim corrupti accusamus minus ut nostrum possimus odit? Vel quod perspiciatis non Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam quae numquam autem culpa adipisci est officia cum natus, quam tempora. Saepe modi fa cere voluptatum suscipit enim dignissimos sit veniam obcaecati! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero fuga ea, assumenda nobis magni vel repudiandae quis? Pariatur delectus molestiae totam cum, fugiat quaerat provident id aliquam quia autem aut. Lorem ipsum dolor sit amet consectetur adipisicing elit. Et iure odit tempore obcaecati mollitia cum temporibus asperiores suscipit id, atque magni quam vero eaque quas eos nesciunt nobis sit commodi? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam omnis suscipit tenetur nulla, repudiandae nesciunt sapiente explicabo similique reiciendis dolores veniam. Delectus repellat deleniti debitis autem sit, repellendus soluta cupiditate. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, ipsam nisi a aliquam beatae quod fugit nobis nulla, autem voluptatem impedit quia eveniet eaque sunt aperiam possimus unde quidem inventore?"
+},
+{
+    "id" : 4,
+    "tipo": "E",
+    "img" : "./assets/Noticia2.png",
+    "titulo" : "Abrazo de gol: Tras anotar, festejaron con un abrazo.",
+    "descripcion": "La victoria por 3 a 1 contra los actuales campeones del Supporter´s Shield, el New England Revolution, pasara a los libros de Historia.",
+    "autor": "Claudio Bonus",
+    "date": "28 de Mayo de 2022",
+    "noticia":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas officiis, quo dicta aut iste distinctio rerum natus enim corrupti accusamus minus ut nostrum possimus odit? Vel quod perspiciatis non Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam quae numquam autem culpa adipisci est officia cum natus, quam tempora. Saepe modi fa cere voluptatum suscipit enim dignissimos sit veniam obcaecati! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero fuga ea, assumenda nobis magni vel repudiandae quis? Pariatur delectus molestiae totam cum, fugiat quaerat provident id aliquam quia autem aut. Lorem ipsum dolor sit amet consectetur adipisicing elit. Et iure odit tempore obcaecati mollitia cum temporibus asperiores suscipit id, atque magni quam vero eaque quas eos nesciunt nobis sit commodi? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam omnis suscipit tenetur nulla, repudiandae nesciunt sapiente explicabo similique reiciendis dolores veniam. Delectus repellat deleniti debitis autem sit, repellendus soluta cupiditate. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, ipsam nisi a aliquam beatae quod fugit nobis nulla, autem voluptatem impedit quia eveniet eaque sunt aperiam possimus unde quidem inventore?"
+},
+{
+    "id" : 3,
+    "tipo": "E",
+    "img" : "./assets/Noticia.png",
+    "titulo" : "Buenas nuevas: Los jugadores estan mejor que nunca.",
+    "descripcion": "La victoria por 3 a 1 contra los actuales campeones del Supporter´s Shield, el New England Revolution, pasara a los libros de Historia.",
+    "autor": "Claudio Bonus",
+    "date": "07 de Marzo de 2022",
+    "noticia":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas officiis, quo dicta aut iste distinctio rerum natus enim corrupti accusamus minus ut nostrum possimus odit? Vel quod perspiciatis non Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam quae numquam autem culpa adipisci est officia cum natus, quam tempora. Saepe modi fa cere voluptatum suscipit enim dignissimos sit veniam obcaecati! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero fuga ea, assumenda nobis magni vel repudiandae quis? Pariatur delectus molestiae totam cum, fugiat quaerat provident id aliquam quia autem aut. Lorem ipsum dolor sit amet consectetur adipisicing elit. Et iure odit tempore obcaecati mollitia cum temporibus asperiores suscipit id, atque magni quam vero eaque quas eos nesciunt nobis sit commodi? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam omnis suscipit tenetur nulla, repudiandae nesciunt sapiente explicabo similique reiciendis dolores veniam. Delectus repellat deleniti debitis autem sit, repellendus soluta cupiditate. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, ipsam nisi a aliquam beatae quod fugit nobis nulla, autem voluptatem impedit quia eveniet eaque sunt aperiam possimus unde quidem inventore?"
+},
+{
+    "id" : 2,
+    "tipo": "P",
+    "img" : "./assets/IMG_6AE5CAADE250-1.jpeg",
+    "titulo" : "Por la Corona: Primera victoria de la historia del club",
+    "descripcion": "La victoria por 3 a 1 contra los actuales campeones del Supporter´s Shield, el New England Revolution, pasara a los libros de Historia.",
+    "autor": "Claudio Bonus",
+    "date": "07 de Marzo de 2022",
+    "noticia":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas officiis, quo dicta aut iste distinctio rerum natus enim corrupti accusamus minus ut nostrum possimus odit? Vel quod perspiciatis non Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam quae numquam autem culpa adipisci est officia cum natus, quam tempora. Saepe modi fa cere voluptatum suscipit enim dignissimos sit veniam obcaecati! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero fuga ea, assumenda nobis magni vel repudiandae quis? Pariatur delectus molestiae totam cum, fugiat quaerat provident id aliquam quia autem aut. Lorem ipsum dolor sit amet consectetur adipisicing elit. Et iure odit tempore obcaecati mollitia cum temporibus asperiores suscipit id, atque magni quam vero eaque quas eos nesciunt nobis sit commodi? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam omnis suscipit tenetur nulla, repudiandae nesciunt sapiente explicabo similique reiciendis dolores veniam. Delectus repellat deleniti debitis autem sit, repellendus soluta cupiditate. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, ipsam nisi a aliquam beatae quod fugit nobis nulla, autem voluptatem impedit quia eveniet eaque sunt aperiam possimus unde quidem inventore?"
+},
+{
+    "id" : 1,
+    "tipo": "P",
+    "img" : "./assets/IMG_6AE5CAADE250-1.jpeg",
+    "titulo" : "Por la Corona: Primera victoria de la historia del club",
+    "descripcion": "La victoria por 3 a 1 contra los actuales campeones del Supporter´s Shield, el New England Revolution, pasara a los libros de Historia.",
+    "autor": "Claudio Bonus",
+    "date": "07 de Marzo de 2022",
+    "noticia":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas officiis, quo dicta aut iste distinctio rerum natus enim corrupti accusamus minus ut nostrum possimus odit? Vel quod perspiciatis non Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam quae numquam autem culpa adipisci est officia cum natus, quam tempora. Saepe modi fa cere voluptatum suscipit enim dignissimos sit veniam obcaecati! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero fuga ea, assumenda nobis magni vel repudiandae quis? Pariatur delectus molestiae totam cum, fugiat quaerat provident id aliquam quia autem aut. Lorem ipsum dolor sit amet consectetur adipisicing elit. Et iure odit tempore obcaecati mollitia cum temporibus asperiores suscipit id, atque magni quam vero eaque quas eos nesciunt nobis sit commodi? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam omnis suscipit tenetur nulla, repudiandae nesciunt sapiente explicabo similique reiciendis dolores veniam. Delectus repellat deleniti debitis autem sit, repellendus soluta cupiditate. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore, ipsam nisi a aliquam beatae quod fugit nobis nulla, autem voluptatem impedit quia eveniet eaque sunt aperiam possimus unde quidem inventore?"
+}
+
+]

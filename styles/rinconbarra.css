@@ -1,0 +1,98 @@
+/*RINCON BARRA*/
+
+.episodiosContainer {
+    background: #FEFEFE 0% 0% no-repeat padding-box;
+    box-shadow: 4px 4px 15px #00000029;
+    border-radius: 15px;
+    opacity: 1;
+    margin-top: 4rem;
+    max-width: 1920px !important;
+    width: 90%;
+    padding-left: 0px;
+}
+
+.episodios {
+    padding-top: 5rem;
+}
+
+.episodioUno img, .episodioDos img, .episodioTres img {
+    width: 100%;
+    height: 100%;
+}
+
+.episodioUno h5, .episodioDos h5, .episodioTres h5 {
+    margin: 2rem 2rem 1rem 2rem;
+}
+
+.episodioUno h6 a, .episodioDos h6 a, .episodioTres h6 a {
+    display: inline-block;
+    padding-left: 75%;
+    color: #029CE6;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.encuesta {
+    width: 90%;
+    margin-top: 2rem;
+}
+
+.encuestaUno{
+    box-shadow: 4px 4px 15px #00000029;
+    border-radius: 15px;
+    opacity: 1;
+    padding-left: 0px;
+    width: 65%;
+    color: #fffefe;
+    background: #060608 0% 0% no-repeat padding-box;
+    margin-right: 1rem;
+}   
+
+.sponsor {
+    border-radius: 15px;
+    background: #FFFEFE 0% 0% no-repeat padding-box;
+    box-shadow: 4px 4px 8px #00000029;
+    padding: 2rem;
+}
+
+.sponsor img {
+    width: 100%;
+    height: auto;
+}
+
+.containerUno {
+    margin-top: 8rem;
+}
+
+.containerImg {
+    padding-right: 0px;
+}
+
+.containerTres {
+    margin-top: 5rem;
+}
+
+.containerDos {
+    margin-right: 1rem;
+}
+
+
+@media  (max-width: 1182px) {
+    .encuestaUno {
+        width: auto;
+    }
+
+    .containerImg {
+        padding-right: 0px;
+        padding-top: 2rem;
+    }
+
+    .containerDos iframe {
+        width: 100%;
+    }
+
+    .sponsor {
+        margin-top: 2rem;
+    }
+    
+}

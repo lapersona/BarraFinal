@@ -1,0 +1,189 @@
+.titleContainerBW {
+    position: absolute;
+    margin-top: 20px;
+    width: 300px;
+    height: 20px;
+    border-right: 20px solid transparent;
+    border-left: 0px solid transparent;
+    border-top: 36px solid #ffffff;
+}
+
+.titleContainerBW h6 {
+    color: black;
+    font: normal normal;
+    font-size: 20px;
+    font-weight: 600;
+    position: absolute;
+    top: -29px;
+    left: 10px;
+}
+
+.barra {
+    display: table;
+    width: 100%;
+    margin-left: 3%;
+}
+
+.barraIntro, .barraSkill {
+    float: left;
+    width: 75%;
+}
+
+aside {
+    display: table;
+    width: 18%;
+    margin: 4rem 4rem 4rem 4rem;
+    background: #FEFEFE 0% 0% no-repeat padding-box;
+    box-shadow: 4px 4px 15px #00000029;
+    border-radius: 15px;
+    opacity: 1;
+}
+
+.containerBio {
+    margin-top: 5rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+.containerBio img {
+    width: 167px;
+    height: 167px;
+    border-radius: 50%;
+    margin: 5px 5px 5px 5px;
+}
+
+.infoContainer {
+    margin-top: 4rem; 
+}
+
+.barraInfo {
+    color: #fffefe;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    background: #060608 0% 0% no-repeat padding-box;
+    box-shadow: 4px 4px 8px #00000029;
+    opacity: 1;
+    padding: 0px !important;
+}
+
+.barraInfo p {
+    font-size: 20px;
+    font-weight: lighter;
+    margin: 5rem 2rem 2rem 2rem;
+}
+
+.barraInfoImg {
+    color: #fffefe;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background: #060608 0% 0% no-repeat padding-box;
+    box-shadow: 4px 4px 8px #00000029;
+    opacity: 1;
+    padding-right: 0px !important;
+}
+
+.barraInfoImg img {
+    border-radius: 15px;;
+    height: 100%;
+    width: 100%;
+}
+
+.skillUno, .skillDos, .skillTres {
+    margin: 2rem 1rem 0rem 1rem;
+    background: #FEFEFE 0% 0% no-repeat padding-box;
+    box-shadow: 4px 4px 15px #00000029;
+    border-radius: 15px;
+    opacity: 1;
+    padding: 0px !important;
+}
+
+.infoSkill {
+    margin-top: 5rem;
+}
+
+.logoSkill {
+    width: 230px;
+    height: auto;
+    margin-bottom: 2rem;
+}
+
+.entrevista {
+    width: 403px;
+    height: auto;
+    margin-bottom: 2rem;
+}
+
+@media (max-width: 1182px) {
+
+    .titleContainerBW {
+        position: absolute;
+        margin-top: 20px;
+        width: 159px;
+        height: 19px;
+        border-right: 20px solid transparent;
+        border-left: 0px solid transparent;
+        border-top: 36px solid #ffffff;
+    }
+    
+    .titleContainerBW h6 {
+        color: #060608;
+        font: normal normal;
+        font-size: 12px;
+        font-weight: 600;
+        position: absolute;
+        top: -27px;
+        left: 4px;
+    }
+
+    .barraInfo p {
+        font-size: 15px;
+        font-weight: lighter;
+        margin: 5rem 1rem 1rem 1rem;
+    }
+
+    .barraInfo {
+        color: #fffefe;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 0px;
+        background: #060608 0% 0% no-repeat padding-box;
+        box-shadow: 4px 4px 8px #00000029;
+        opacity: 1;
+    }
+
+    .barraInfoImg {
+        color: #fffefe;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        border-top-right-radius: 0px;
+        background: #060608 0% 0% no-repeat padding-box;
+        box-shadow: 4px 4px 8px #00000029;
+        opacity: 1;
+        padding: 0px !important;
+    }
+
+    .barraInfoImg img {
+        border-radius: 15px;;
+        height: 100%;
+        width: 100%;
+    }
+
+    .logoSkill {
+        width: 150px;
+        height: 150px;
+        margin-bottom: 2rem;
+    }
+    
+    .entrevista {
+        width: 338px;
+        height: 151px;
+        margin-bottom: 2rem;
+    }
+
+    .containerBio {
+        margin-top: 5rem;
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+    
+}

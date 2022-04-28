@@ -1,0 +1,38 @@
+.container {
+    max-width: 1920px !important;
+}
+
+.container-fluid-carousel {
+    margin: 4rem 4rem 4rem 0rem;
+    padding-left: 4rem;
+}
+
+.item img{
+    padding: 5px;
+    border-radius:5px;
+    margin: 5px;
+    width: 270px;
+    height: 179px;
+}
+.carousel-right{
+    background: #FEFEFE 0% 0% no-repeat padding-box;
+    box-shadow: 4px 4px 15px #00000029;
+    border-radius: 15px;
+}
+
+@media (max-width: 1182px) {
+    .container-fluid-carousel {
+        margin: 4rem 4rem 4rem 0rem;
+        padding-left: 4rem;
+    }
+    .item img{
+        padding: 5px;
+        border-radius:5px;
+        margin: 5px;
+        width: 350px;
+        height: 200px;
+    }
+    .carousel-right{
+        margin-top: 2rem;
+    }
+}
